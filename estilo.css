@@ -1,0 +1,95 @@
+h1 {
+	font-family: 'Kaushan Script', cursive;
+	font-size: 36px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h2{
+	font-family: 'Times new Roman';
+	font-size: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h3{
+	font-family: 'Times new Roman';
+	font-size: 18px;
+}
+
+p{
+	font-family: 'Arial';
+	font-size: 14px;
+}
+
+#cabecalho{
+	background-color: #6175f0;
+	color: white;
+	margin-top: -8px;
+	margin-left: -8px;
+	padding-top: 9px;
+	padding-left: 34px;
+	padding-bottom: 6px;
+}
+
+#imagem{
+	width: 310px;
+	margin-left: -8px;
+	float: left;
+}
+
+#verdade-oculta{
+	padding-left: 315px; /*310-8+13*/
+}
+
+#unicornios-hoje{
+	width: 405px;
+	background-color: #f8cef7;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ff56fb;
+	float: right;
+	margin-right: 17px; /*25-8*/
+}
+
+#unicornios-hoje img{
+	width: 112px;
+	height: 112px;
+	display: block;
+    margin: 0 auto;
+}
+
+#unicornios-hoje p{
+	padding-right: 35px;
+	padding-left: 35px;
+	text-align: center;
+}
+
+#unicornios-hoje h2{
+	text-align: center;
+	margin-top: 13px;/*20-7*/
+}
+
+#unicornios-hoje h3{
+	text-align: center;
+}
+
+#bottom{
+	margin-bottom: 30px;
+}
+
+#musica{
+	margin-left: 4px; /*12-8*/
+}
+
+.deslocado{
+	margin-left: 34px;
+}
+
+.destacado{
+	background-color: #c4caf3;
+	color: #004a79;
+	padding-left: 12px;
+	margin-left: -12px;
+	margin-right: -8px;
+}
